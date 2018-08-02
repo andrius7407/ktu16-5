@@ -1,0 +1,203 @@
+﻿202
+AFG Afganistano Islamo Valstybė
+IRL Airijos Respublika
+ALB Albanijos Respublika
+ALG Alžyro Liaudies Demokratinė Respublika
+ASA Rytų Samoa
+AND Andoros Kunigaikštystė
+ANG Angolos Respublika
+ANT Antigva ir Barbuda
+ARG Argentinos Respublika
+ARM Armėnijos Respublika
+ARU Aruba
+AUS Australijos Sandrauga
+AUT Austrijos Respublika
+AZE Azerbaidžano Respublika
+BAH Bahamų Sandrauga
+BRN Bahreino Karalystė
+BLR Baltarusijos Respublika
+BAN Bangladešo Liaudies Respublika
+BAR Barbadosas
+BEL Belgijos Karalystė
+BIZ Belizas
+BEN Benino Respublika
+BER Bermudai
+GBS Bisau Gvinėjos Respublika
+BOL Bolivijos Daugiatautė Valstybė
+BIH Bosnija ir Hercegovina
+BOT Botsvanos Respublika
+BRA Brazilijos Federacinė Respublika
+BRU Brunėjaus Darusalamas
+BUL Bulgarijos Respublika
+BUR Burkina Fasas
+BDI Burundžio Respublika
+BHU Butano Karalystė
+CAF Centrinės Afrikos Respublika
+CHA Čado Respublika
+CZE Čekijos Respublika
+CHI Čilės Respublika
+DEN Danijos Karalystė
+IVB Didžiosios Britanijos Mergelių salos
+DMA Dominikos Sandrauga
+DOM Dominikos Respublika
+CIV Dramblio Kaulo Kranto Respublika
+DJI Džibučio Respublika
+EGY Egipto Arabų Respublika
+ECU Ekvadoro Respublika
+ERI Eritrėja
+EST Estijos Respublika
+ETH Abisinija; Etiopijos Federacinė Demokratinė Respublika
+FIJ Fidžio Salų Respublika
+PHI Filipinų Respublika
+GAB Gabono Respublika
+GUY Gajanos Respublika
+GAM Gambijos Respublika
+GHA Ganos Respublika
+GRE Graikijos Respublika
+GRN Grenada
+GEO Gruzija
+GUM Guamas
+GUA Gvatemalos Respublika
+GUI Gvinėjos Respublika
+HAI Haičio Respublika
+HON Hondūro Respublika
+HKG Siangangas
+ESP Ispanijos Karalystė
+ITA Italijos Respublika
+ISR Izraelio Valstybė
+JAM Jamaika
+JPN Japonija
+YEM Jemeno Respublika
+JOR Jordanijos Hašimitų Karalystė
+UAE Jungtiniai Arabų Emyratai
+GBR Jungtinė Didžiosios Britanijos ir Šiaurės Airijos Karalystė
+USA Jungtinės Amerikos Valstijos
+MNE Juodkalnija
+CAY Kaimanų salos
+CAM Kambodžos Karalystė
+CMR Kamerūno Respublika
+CAN Kanada
+QAT Kataro Valstybė
+KAZ Kazachstano Respublika
+KEN Kenijos Respublika
+CHN Kinijos Liaudies Respublika
+CYP Kipro Respublika
+KGZ Kirgizijos Respublika; Kirgizstanas
+KIR Kiribačio Respublika
+COL Kolumbijos Respublika
+COM Komorų Federacinė Islamo Respublika
+COD Zairas
+CGO Kongo Respublika
+CRC Kosta Rikos Respublika
+CRO Kroatijos Respublika
+CUB Kubos Respublika
+COK Kuko salos
+KUW Kuveito Valstybė
+LAO Laoso Liaudies Demokratinė Respublika
+LAT Latvijos Respublika
+POL Lenkijos Respublika
+LES Lesoto Karalystė
+LIB Libano Respublika
+LBR Liberijos Respublika
+LBA Libijos Arabų Socialistinė Liaudies Džamahirija
+LIE Lichtenšteino Kunigaikštytė
+LTU Lietuvos Respublika
+LUX Liuksemburgo Didžioji Hercogystė
+MAC Aomenas
+MAD Madagaskaro Respublika
+MKD Makedonijos Respublika
+MAS Malaizija
+MAW Malavio Respublika
+MDV Maldyvų Respublika
+MLI Malio Respublika
+MLT Maltos Respublika
+MAR Maroko Karalystė
+MHL Maršalo Salų Respublika
+MRI Mauricijaus Respublika
+MTN Mauritanijos Islamo Respublika
+MEX Meksikos Jungtinės Valstijos
+ISV Mergelių salos
+MYA Mianmaro Sąjunga; anksčiau – Birma
+FSM Mikronezijos Federacinės Valstijos
+MDA Moldovos Respublika; Moldova
+MON Monako Kunigaikštystė
+MGL Mongolija
+MOZ Mozambiko Respublika
+NAM Namibijos Respublika
+NZL Naujoji Zelandija
+NRU Nauru Respublika
+NEP Nepalo Federacinė Demokratinė Respublika
+NED Nyderlandų Karalystė
+AHO Nyderlandų Antilai
+NGR Nigerijos Federacinė Respublika
+NIG Nigerio Respublika
+NCA Nikaragvos Respublika
+NOR Norvegijos Karalystė
+OMA Omano Sultonatas
+PAK Pakistano Islamo Respublika
+PLW Palau Respublika
+PLE Palestinos valstybė
+PAN Panamos Respublika
+PNG Papua Naujoji Gvinėja
+PAR Paragvajaus Respublika
+PER Peru Respublika
+RSA Pietų Afrikos Respublika
+KOR Korėjos Respublika
+POR Portugalijos Respublika
+FRA Prancūzijos Respublika
+PUR Puerto Rikas
+GEQ Pusiaujo Gvinėjos Respublika
+RWA Ruandos Respublika
+ROU Rumunija
+RUS Rusijos Federacija
+TLS Rytų Timoras
+SOL Saliamono salos
+ESA Salvadoro Respublika
+SAM Samoa Nepriklausomoji Valstybė
+SMR San Marino Respublika
+STP San Tomės ir Prinsipės Demokratinė Respublika
+KSA Saudo Arabijos Karalystė
+SEY Seišelių Respublika
+SEN Senegalo Respublika
+SKN Sent Kitsas ir Nevis
+LCA Sent Lusija
+VIN Sent Vinsentas ir Grenadinai
+SRB Serbijos Respublika
+SLE Siera Leonės Respublika
+SIN Singapūro Respublika
+SYR Sirijos Arabų Respublika
+SVK Slovakijos Respublika
+SLO Slovėnijos Respublika
+SOM Somalio Demokratinė Respublika
+SUD Sudano Respublika
+FIN Suomijos Respublika
+SUR Surinamo Respublika
+SWZ Svazilando Karalystė
+PRK Korėjos Liaudies Demokratinė Respublika
+SRI Šri Lankos Demokratinė Socialistinė Respublika
+SWE Švedijos Karalystė
+SUI Šveicarijos Konfederacija
+TJK Tadžikistano Respublika
+THA Tailando Karalystė
+TPE Kinijos Respublika
+TAN Tanzanijos Jungtinė Respublika
+TOG Togo Respublika
+TGA Tongos Karalystė
+TRI Trinidado ir Tobago Respublika
+TUN Tuniso Respublika
+TUR Turkijos Respublika
+TKM Turkmėnistanas
+TUV Tuvalu
+UGA Ugandos Respublika
+UKR Ukraina
+URU Urugvajaus Rytų Respublika
+UZB Uzbekistano Respublika
+VAN Vanuatu Respublika
+VAT Vatikano Miesto Valstybė
+VEN Venesuelos Respublika
+HUN Vengrijos Respublika
+VIE Vietnamo Socialistinė Respublika
+GER Vokietijos Federacinė Respublika
+ZAM Zambijos Respublika
+ZIM Zimbabvės Respublika
+CPV Žaliojo Kyšulio Respublika
